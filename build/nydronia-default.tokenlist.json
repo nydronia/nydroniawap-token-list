@@ -1,0 +1,209 @@
+{
+  "name": "NydroniaSwap Default List",
+  "timestamp": "2021-10-09T13:55:28.925Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8314.png",
+  "keywords": [
+    "nydroniaswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Aave",
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://etherscan.io/token/images/aave_32.png"
+    },
+    {
+      "name": "Cosmos",
+      "address": "0xac51C4c48Dc3116487eD4BC16542e27B5694Da1b",
+      "symbol": "ATOM",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png?1555657960"
+    },
+    {
+      "name": "Avalanche Token",
+      "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818"
+    },
+    {
+      "name": "beefy.finance",
+      "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+      "symbol": "BIFI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/single-assets/BIFI.png"
+    },
+    {
+      "name": "Binance Token",
+      "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Ether",
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Huobi Token",
+      "address": "0xA731349fa468614c1698fc46ebf06Da6F380239e",
+      "symbol": "HT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992"
+    },
+    {
+      "name": "Quickswap",
+      "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
+    },
+    {
+      "name": "renBTC",
+      "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
+      "symbol": "renBTC",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/11370/small/Bitcoin.jpg?1628072791"
+    },
+    {
+      "name": "renDGB",
+      "address": "0x2628568509E87c4429fBb5c664Ed11391BE1BD29",
+      "symbol": "renDGB",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-default-token-list/master/assets/renDGB.svg"
+    },
+    {
+      "name": "renDOGE",
+      "address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
+      "symbol": "renDOGE",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/13796/small/renDOGE.png?1611897869"
+    },
+    {
+      "name": "REVV",
+      "address": "0x70c006878a5A50Ed185ac4C87d837633923De296",
+      "symbol": "REVV",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/12373/small/REVV_TOKEN_Refined_2021_%281%29.png?1627652390"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped UST Token",
+      "address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
+      "symbol": "UST",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/12681/small/UST.png?1601612407"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "Wrapped BUSD",
+      "address": "0x87ff96aba480f1813aF5c780387d8De7cf7D8261",
+      "symbol": "WBUSD",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
+    },
+    {
+      "name": "Wrapped Matic",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Ether",
+      "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped Matic",
+      "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    }
+  ]
+}
